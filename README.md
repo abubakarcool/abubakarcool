@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Abubakar Awan
 
-<!--
-**abubakarcool/abubakarcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering graduate** with a focus on **Artificial Intelligence**. I love building smart systems, solving real-world problems, and constantly learning new tech.
 
-Here are some ideas to get you started:
+### 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **AI Enthusiast** with a passion for NLP, ML, and GenAI
+- 📺 **Freelance Android TV Developer** – building immersive TV app experiences of 7 years
+- 🌐 **Frontend Developer** – worked on Angular web apps with clean UIs experience of 5 years
+- 🐳 **DevOps Curious** – experienced with Docker & Linux systems
+- 🧩 **Advanced Database** Skills – strong experience with MSSQL and modern vector databases like Weaviate for AI-powered applications
+
+### 🧰 Tech Stack
+
+- **Languages:** Python, JavaScript, Java, PHP
+- **AI/ML:** PyTorch, TensorFlow, HuggingFace, Scikit-learn, NLTK, LangChain, Llamaindex etc
+- **Web:** Angular, HTML, CSS, Bootstrap
+- **Mobile:** Android TV, JAVA
+- **Tools:** Docker, Linux, Git, Firebase, GitHub Actions
+
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abubakar-awan-77910bb2/))
+- 📧 [Email](mailto:ucool38@gmail.com)
